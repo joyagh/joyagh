@@ -1,4 +1,4 @@
-### Justine Oyaghiro Here! :wave::skin-tone-5:, 
+### Justine Oyaghiro Here! 👋🏽, 
 
 
 
