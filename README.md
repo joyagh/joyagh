@@ -1,4 +1,4 @@
-### Justine Oyaghiro Here! 👋🏽, 
+### Justine Oyaghiro Here! 👋🏽 
 
 
 
