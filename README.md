@@ -32,7 +32,7 @@ Coming Soon! 🚀
 
 ## 📫 How to reach me:
 
-- [Email Address] joyaghiro@gmail.com
+- [Email Address] (joyaghiro@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/justineoyaghiro)
 
 
