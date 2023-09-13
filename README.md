@@ -4,7 +4,7 @@
 
 ## About Me 🌱
 
-I'm a passionate full-stack developer specializing in JavaScript. Having recently completed the  at Codex Academy, I'm equipped with a comprehensive understanding of both front-end and back-end development. I take immense pride in my work, constantly honing my skills, and finding joy in delivering elegant solutions through code.
+I'm a passionate full-stack developer specializing in JavaScript. Having recently completed the curriculum at Codex Academy, I'm equipped with a comprehensive understanding of both front-end and back-end development. I take immense pride in my work, constantly honing my skills, and finding joy in delivering elegant solutions through code.
 
 With a keen interest in govTech, I'm excited about leveraging technology to improve public services and create innovative solutions for government agencies. It's my belief that the fusion of technology and governance can have a profound impact on society, and I'm eager to be a part of this positive change.
 
