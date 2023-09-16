@@ -20,7 +20,7 @@ Let's collaborate to create solutions that make a difference!
 
 ## Projects
 
-Coming Soon! 🚀
+sogit-301.netlify.app/ 🚀
 
 
 ## Skills
